@@ -1,5 +1,6 @@
 # Pokemon Go Working Bot Hack
 
+## Does not work with the new API
 
 ## USE WITH CAUTION! 
 Niantic may ban you if you run the bot while signed in through your phone.
